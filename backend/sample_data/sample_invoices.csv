@@ -1,0 +1,5 @@
+invoice_no,client_name,amount,due_date,email
+INV-1001,Rajesh Kumar,45000,2025-04-01,rajesh@gmail.com
+INV-1002,Amit Sharma,12000,2025-05-15,amit@gmail.com
+INV-1003,Priya Singh,8900,2025-05-25,priya@gmail.com
+INV-1004,Neha Verma,67000,2025-03-20,neha@gmail.com
