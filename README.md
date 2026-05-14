@@ -415,8 +415,8 @@ This project demonstrates:
 # Author
 
 ```text
-Name: YOUR_NAME
-College: YOUR_COLLEGE
+Name: Kamal
+College: NIT KKR
 Role: Full Stack + AI Developer
 ```
 
